@@ -6,10 +6,10 @@ Quantum-resistant homomorphic encryption scheme that can eventually be used to e
 
 `python test.py`
 
-For client-server version first generate ciphertexts cA and cB with demoClient.py
+For client-server version first generate ciphertexts cA and cB:
 
 `python demoClient.py`
 
-then run the server interactively
+then run the server interactively:
 
 `python -i demoServer.py`
